@@ -12,4 +12,4 @@
 
 - Coloque o executável em uma pasta com todos os arquivos gerados pelo GAMESS-US (Obs: eles devem estar sempre aos pares, e nomeados da seguinte maneira: E1.out, G1.out, E2.out, G2.out, E3.out, G3.out,...).
 - basta executar como administrador.
-- Ao final será gerado um LOG em C:/LOG_pyGAMESS-DataScan
+- Ao final será gerado um LOG em C:/LOG_pyGAMESS-DataScan.txt
